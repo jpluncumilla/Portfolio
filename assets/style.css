@@ -1,0 +1,67 @@
+.headerbro {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 45px;
+    padding-right: 45px;
+    align-items: center;
+    text-align: center;
+}
+
+
+.fullDoc {
+    font-family: 'Nunito', sans-serif;
+    background-color: rgb(239, 182, 26);
+    text-align: center;
+}
+
+#jumbo {
+    background-color: rgb(239, 182, 26);
+}
+
+#portfolio-cards {
+    background-color: rgb(239, 182, 26);
+}
+
+.nav-inner {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: 700;
+    font-size: 16px;
+    padding-right: 12px;
+    padding-left: 12px;
+    padding-top: 10px;
+    color: black;
+    text-decoration: none;
+}
+
+#footer-bro {
+    padding-top: 90px;
+    padding-bottom: 90px; 
+    font-size: 35px;
+    color: black;
+}
+
+#carouselExampleSlidesOnly {
+    padding-bottom: 200px;
+    padding-top: 50px;
+    opacity: 0.95;
+}
+
+.titlebruh {
+    font-weight: bold !important;
+    font-size: 40px;
+    letter-spacing: 2px;
+    padding-bottom: 45px;
+}
+
+#power {
+    padding-bottom: 25px;
+}
+
+.portfolio-cards {
+    background-color: rgb(239, 182, 26);
+}
+
+.card {
+    background-color: rgb(239, 182, 26);
+}
