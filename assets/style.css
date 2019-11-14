@@ -5,21 +5,23 @@
     padding-right: 45px;
     align-items: center;
     text-align: center;
+    color: white;
 }
 
 
 .fullDoc {
     font-family: 'Nunito', sans-serif;
-    background-color: rgb(239, 182, 26);
+    background-color: rgb(0, 1, 20);
     text-align: center;
+    color: white;
 }
 
 #jumbo {
-    background-color: rgb(239, 182, 26);
+    background-color: rgb(0, 1, 20);
 }
 
 #portfolio-cards {
-    background-color: rgb(239, 182, 26);
+    background-color: rgb(0, 1, 20);
 }
 
 .nav-inner {
@@ -32,6 +34,7 @@
     padding-top: 10px;
     color: black;
     text-decoration: none;
+    color: white;
 }
 
 #footer-bro {
@@ -59,9 +62,13 @@
 }
 
 .portfolio-cards {
-    background-color: rgb(239, 182, 26);
+    background-color: rgb(0, 1, 20);
 }
 
 .card {
-    background-color: rgb(239, 182, 26);
+    background-color: rgb(0, 1, 20) !important;
 }
+
+html {
+    scroll-behavior: smooth;
+  }
